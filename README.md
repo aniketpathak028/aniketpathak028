@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aniket Pathak</h1>
 <h3 align="center">A Developer trying to learn stuff by Experimenting and Experiencing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketpathak028&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpathak028" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketpathak028&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpathak028" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aniketpathak028&title=Stars,Joined2020,Commit,PullRequest,Repositories,Issues&theme=radical" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniketpathak028&title=Stars,Joined2020,Commit,PullRequest,Repositories,Issues&theme=radical)](https://github.com/aniketpathak028)
 
 <img align="right" alt="Coding" width="400" src="coding.gif">
 
