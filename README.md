@@ -37,7 +37,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketpathak028&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketpathak028&show_icons=true&locale=en" alt="aniketpathak028" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketpathak028&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketpathak028&" alt="aniketpathak028" /></p>
