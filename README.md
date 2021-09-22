@@ -1,9 +1,11 @@
+[![MasterHead](banner.png)](https://github.com/aniketpathak028)
 <h1 align="center">Hi 👋, I'm Aniket Pathak</h1>
 <h3 align="center">A Developer trying to learn stuff by Experimenting and Experiencing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketpathak028&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpathak028" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketpathak028" alt="aniketpathak028" /></a> </p>
+<img align="right" alt="Coding" width="400" src="coding.gif">
 
 - 🔭 I’m currently working on [Breaking Bad Quiz APP](https://github.com/aniketpathak028/Breaking-Bad-Quiz-App)
 
