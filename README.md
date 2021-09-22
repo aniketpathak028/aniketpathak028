@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketpathak028&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpathak028" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniketpathak028&theme=onedark)](https://github.com/aniketpathak028)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniketpathak028&title=Stars,Joined2020,Commit,PullRequest,Repositories,Issues&theme=radical)](https://github.com/aniketpathak028)
 
 <img align="right" alt="Coding" width="400" src="coding.gif">
 
