@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Breaking Bad Quiz APP](https://github.com/aniketpathak028/Breaking-Bad-Quiz-App)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Javascript**
 
