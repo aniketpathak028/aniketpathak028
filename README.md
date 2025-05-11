@@ -4,4 +4,4 @@
 
 🚀 **About Me**
 
-#### I work in Network Automation Engineer @Nokia. I am passionate about backend and distributed-systems. reach me @ [aniketpathak.me](https://aniketpathak.me)
+#### I work in Network Automation Engineer @Nokia. I am passionate about backend and distributed-systems. [reach me](https://aniketpathak.me)
