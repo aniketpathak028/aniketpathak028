@@ -1,9 +1,7 @@
 <p align="center">
 </p>
-
-<h1 align="center">Hey! I am Aniket 👋</h1>
 <p align="center">
-  <strong>netowrking | backend | distributed systems | system design</strong>
+  <strong>networking | backend | distributed systems | system design</strong>
 </p>
 
 ---
