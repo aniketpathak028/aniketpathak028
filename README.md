@@ -2,4 +2,4 @@
   <img src="./banner.png" width="100%" />
 </p>
 
-#### I work in Network Automation @Nokia. I am passionate about backend, networks and distributed-systems. [reach me here](https://aniketpathak.me)
+#### I like to trek 🧗 and discuss philosophy 💭 [reach me here](https://aniketpathak.me)
